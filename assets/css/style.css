@@ -1,13 +1,23 @@
 body {
     background-color: white;
-    font-family:'Poppins', sans-serif;;
+    background: url(https://uploads-ssl.webflow.com/634079ed752b04616680d017/634086aa4d90334efe82a6bf_fashion-hero.png), lightgray -389.066px -182.935px / 204.859% 155.655% ;
+    background-repeat: no-repeat;
+    font-family:'Poppins', sans-serif;
+    background-position: right;
+    width: 642.977px;
+    height: 569.451px;
+    flex-shrink: 0;   
 }
+   
 h1 {
     color: black;
     font-size: 72px;
     font-weight: 900;
     line-height: 90px;
     text-transform: uppercase;
+    width: 370px;
+    height: 355px;
+    flex-shrink: 0;
 }
 a{
     padding: 12px 22px;
